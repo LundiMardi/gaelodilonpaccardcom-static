@@ -3191,32 +3191,14 @@
 		"oAP": "/build/sameplace_zoom.html",
 		"oF": 0
 		},
-	"/source/style-min.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 1,
-		"oA": 1,
-		"oAP": "/build/style-min-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"/source/style-min.css.map": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 1,
-		"oAP": "/build/style-min.css.map",
-		"oF": 0
-		},
 	"/source/style.css": {
 		"aP": 0,
 		"bl": 0,
 		"ft": 16,
 		"ma": 1,
 		"oA": 0,
-		"oAP": "/build/style-min.css",
-		"oF": 0,
+		"oAP": "/build/style.css",
+		"oF": 2,
 		"oS": 3
 		},
 	"/source/thedubiousbirth.kit": {
